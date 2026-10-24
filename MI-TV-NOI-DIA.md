@@ -1,11 +1,14 @@
-# Mi TV nội địa Trung Quốc (loại 65–75 inch) – hướng dẫn nhanh
+# Mi TV nội địa Trung Quốc (kể cả 86 inch) – hướng dẫn nhanh
 
 Repo này là bản sao của [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) (giấy phép MIT,
 xem [LICENSE](LICENSE)). Tài liệu đầy đủ bằng tiếng Việt: [README.vi.md](README.vi.md). Trang này chỉ gom
 những gì cần cho **TV Xiaomi / Redmi bản nội địa (firmware CN, không có Google)**.
 
-> Xiaomi không có mẫu 68 inch; TV "68 inch" thường là bản 65" (hoặc 70"/75"). Hãy xem đúng **mã máy**
-> trước: Cài đặt → 关于 / Giới thiệu → 型号 (Model), dạng `MiTV-XXXX0` hoặc `L65M…`.
+> **TV 86 inch:** repo gốc chưa có danh sách nào cho mẫu Xiaomi/Redmi 86" (Redmi MAX 86, Xiaomi ES86,
+> S Pro 86…). Cùng một mã máy (`MiTV-XXXX0`) thường dùng chung cho nhiều cỡ màn hình, nên hãy xem đúng
+> **mã máy** trước: Cài đặt → 关于 / Giới thiệu → 型号 (Model), dạng `MiTV-XXXX0` hoặc `L86M…`, cùng
+> phiên bản hệ thống (系统版本). Nếu mã máy khớp với bảng dưới thì dùng được danh sách đó; nếu không,
+> làm theo [PROMPT.md](PROMPT.md).
 
 ## 1. Chọn danh sách gần đúng với TV của bạn
 
